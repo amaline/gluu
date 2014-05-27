@@ -5,7 +5,7 @@ repository to test the installation of oxTrust and oxAuth from Gluu using docker
 
 after checking out the repository in the gluu/base directory run
 
-# docker build -t gluu-base .
+\# docker build -t gluu-base .
 
 in the gluu/opendj directory run
 
